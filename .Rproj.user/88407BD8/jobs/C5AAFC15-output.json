@@ -1,0 +1,4 @@
+[1,"Installing 'here' ...\r\n"]
+[1,"\r\n"]
+[2,"Installing package into 'C:/Users/carlo/OneDrive/Documentos/R/win-library/4.1'\r\n(as 'lib' is unspecified)\r\n"]
+[2,"Warning: unable to access index for repository https://cran.rstudio.com/src/contrib:\r\n  no fue posible abrir la URL 'https://cran.rstudio.com/src/contrib/PACKAGES'\r\nWarning: unable to access index for repository https://cran.rstudio.com/bin/windows/contrib/4.1:\r\n  no fue posible abrir la URL 'https://cran.rstudio.com/bin/windows/contrib/4.1/PACKAGES'\r\n\r\n\r\n<U+2714> Package 'here' successfully installed.\r\nWarning message:\r\npackage 'here' is not available for this version of R\r\n\r\nA version of this package for your version of R might be available elsewhere,\r\nsee the ideas at\r\nhttps://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages \r\n"]
